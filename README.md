@@ -1,13 +1,18 @@
-### PROJECT
-- Daycon Electricity Usage Prediction Contest
-- Hourly data from June 1, 2020 to August 24, 2020 for 60 specific buildings from the Korea Energy Agency.
-
 ### Team
 - [BONGHOON LEE](https://github.com/Bong-HoonLee)
 - [SEOBIN BANG](https://github.com/vin10ah)
 - [DOYEON KIM](https://github.com/electronicguy97)
 - [JAESEOK LEE](https://github.com/appleman153)
 - [MOONSUN JUNG](https://github.com/JUNGMOONSUN/)
+
+### 실험보고서
+|실험내용|실험보고서|발표자료|
+|------|---|---|
+||[실험보고서.docx](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/files/13936854/default.docx)
+|[중간발표.pptx](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/files/13936853/default.pptx)|
+||[실험보고서.pdf](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/files/13936866/default.pdf)
+|[최종발표자료.pdf](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/files/13936841/default.pdf)|
+|||[최종발표자료.pptx](https://github.com/Bong-HoonLee/EST_wassup01_TEAM4/files/13936842/default.pptx)|
 
 ### Directory
 - `archive`: history
