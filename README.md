@@ -1,3 +1,7 @@
+### PROJECT
+- Daycon Electricity Usage Prediction Contest
+- Hourly data from June 1, 2020 to August 24, 2020 for 60 specific buildings from the Korea Energy Agency.
+
 ### Team
 - [BONGHOON LEE](https://github.com/Bong-HoonLee)
 - [SEOBIN BANG](https://github.com/vin10ah)
