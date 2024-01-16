@@ -1,6 +1,7 @@
 ### PROJECT
 - Deacon Power Usage Forecasting Contest
 - Hourly data from June 1, 2020 to August 24, 2020 for 60 specific buildings from the Korea Energy Agency
+- we selected no.1 buliding, one of 60
 
 ### Team
 - [BONGHOON LEE](https://github.com/Bong-HoonLee)
